@@ -4,6 +4,9 @@ html, body {
   margin: 0;
  }
 
+.title {
+  
+}
 .page {
   background-color: white;
 }
@@ -19,6 +22,7 @@ html, body {
 }
 
 .main-nav {
+  font-family:sans-serif;
   width: 800px;
   margin-left: 200px;
   position: absolute;
@@ -26,6 +30,7 @@ html, body {
 }
 
   .main-nav a {
+    font-family:sans-serif;
     display: inline-block;
     border-radius: 5px 0px 0px 0px;
     border-bottom: 10px solid white;
@@ -39,20 +44,23 @@ html, body {
   }
 
     .main-nav a:hover {
+      font-family:sans-serif;
       bottom: -20px;
     }
 
 .page-content {
    margin-left: 200px;
+  font-family:sans-serif;
 }
 
 
 
   .page-content a {
-   
+   font-family:sans-serif;
   }
 
 h1 {
+  font-family:sans-serif;
   margin: 10px 0 40px;
   padding-bottom: 10px;
   color: #6f717d;
@@ -67,15 +75,17 @@ h2 {
 
 
 .page-nav {
- 
+ font-family:sans-serif;
 }
 
   .page-nav ul {
+    font-family:sans-serif;
     list-style-type: none;
     padding-left: 20px;
   }
 
     .page-nav ul li {
+      font-family:sans-serif;
       transition: all 300ms ease;
       left: 0px;
       position: relative;
