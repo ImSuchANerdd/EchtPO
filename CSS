@@ -100,8 +100,12 @@ h2 {
         color: #6f717d;
       }
 a:link {
+  text-decoration: none;
   color:#6f717d;
+  font-weight: bold;
 }
 a:visited {
+    text-decoration: bold;
     color:#6f717d;
+    font-weight: bold;
 }
